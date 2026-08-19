@@ -1,8 +1,8 @@
-# 🧠 Learning How to Learn: O Guia do Autodidata
+# 🧠 Learning How to Learn
 
-> Um diário e guia prático para desvendar os segredos do aprendizado contínuo. Explore tecnologias educacionais, técnicas criativas, recursos e roteiros para se tornar um pesquisador e desenvolvedor autodidata em qualquer disciplina.
+> Um diário e guia prático para desvendar os segredos do aprendizado contínuo. Tecnologias educacionais, técnicas criativas, recursos e roteiros para se tornar um pesquisador e desenvolvedor autodidata em qualquer disciplina.
 
-Bem-vindo ao seu repositório pessoal para dominar a arte de aprender. Este espaço é dedicado à compilação de metodologias, insights da ciência cognitiva e ferramentas que impulsionam a aprendizagem ativa e multidisciplinar. Do básico ao avançado, este guia visa capacitar qualquer pessoa a absorver, aplicar e inovar conhecimento de forma eficaz.
+Repositório pessoal para dominar a arte de aprender. Este espaço é dedicado à compilação de metodologias, insights da ciência cognitiva e ferramentas que impulsionam a aprendizagem ativa e multidisciplinar. Do básico ao avançado, este guia visa capacitar qualquer pessoa a absorver, aplicar e inovar conhecimento de forma eficaz.
 
 ---
 
